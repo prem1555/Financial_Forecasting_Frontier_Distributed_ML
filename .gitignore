@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+spark-warehouse/
+metastore_db/
+*.log
+*.tmp
+*.crc
+
+streaming_data/checkpoint/
+
+models/bank_model/metadata/
+models/bank_model/stages/
+
+output/
